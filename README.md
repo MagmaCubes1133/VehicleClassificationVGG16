@@ -1,4 +1,4 @@
-# VehicleClassificationVGG16
+# Vehicle Classification Using VGG16 Style Convolutional Neural Networks
 Our project implements a Convolutional Neural Network, which is currently state-of-the-art in image recognition technologies. It tries to perform Vehicle classification over the Stanford Cars Dataset (Also known as cars196) with 16,165 images of 196 cars. The project aims to train a model to classify vehicles in the following format- Make, Model, and Year. For example: the 2012 Tesla Model S or 2012 BMW M3
 coupe.
 
